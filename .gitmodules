@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:duydownly/backend_appmobile_chamcong.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:duydownly/frontend_appmobile_chamcong.git
